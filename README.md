@@ -1,3 +1,9 @@
+![image](https://github.com/praveenalpha/Chakr-Assnmnt/assets/48654802/48fa5a70-b722-4b1a-9ad9-8c8d0945b705)
+![image](https://github.com/praveenalpha/Chakr-Assnmnt/assets/48654802/86126b3c-eba6-408a-a0d7-4e0449e37ad0)
+
+To run this project just clone and run command npm start standing inside src folder.
+Note: I had very limited time thus wasn't able to debug graph component but I assure that I can create it and build great downsampling algorithm as I previously did at Amazon as SDE-1 provided some more time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
