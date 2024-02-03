@@ -1,0 +1,11 @@
+.main-mid-graph{
+    background-color: #FFFF;
+    height: 17rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;    
+}
+.main-mid-graph-top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

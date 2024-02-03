@@ -1,0 +1,20 @@
+.nav-profile{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    margin-top: 8rem;
+}
+.nav-profile-right{
+    margin-left: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.nav-profile-right-admin{
+    background-color: #FFCD71;
+    color: black;
+    font-size: x-small;
+    border-radius: 0.5rem;
+    padding: 0.1rem;
+}

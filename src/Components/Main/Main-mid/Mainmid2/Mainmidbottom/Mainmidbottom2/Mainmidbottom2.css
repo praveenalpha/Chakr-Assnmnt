@@ -1,0 +1,14 @@
+.main-mid-bottom-2{
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-self: unset;
+    align-items: baseline;
+    margin-left: 1rem;
+
+}
+.main-mid-bottom-2-head{
+}
+.main-mid-bottom-2-bottom{
+    margin-left: 1rem;
+}
