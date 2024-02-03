@@ -1,3 +1,5 @@
+Deployed Link: https://chakr-assnmnt.vercel.app/
+
 ![image](https://github.com/praveenalpha/Chakr-Assnmnt/assets/48654802/48fa5a70-b722-4b1a-9ad9-8c8d0945b705)
 ![image](https://github.com/praveenalpha/Chakr-Assnmnt/assets/48654802/86126b3c-eba6-408a-a0d7-4e0449e37ad0)
 
